@@ -1,3 +1,5 @@
+Predictive_modelling_Of_Accident_Severity
+
 Establishing a correlation between traffic accidents severity and weather data while accounting for Road Points of Interset.
 
 The link to the RData files can be found here:
